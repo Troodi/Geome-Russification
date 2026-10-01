@@ -49,3 +49,26 @@
 
 <img width="1367" height="1167" alt="image" src="https://github.com/user-attachments/assets/30abc1b1-2d5f-4cb6-b651-0451e05c47d7" />
 
+После включения идем в приложения, снова в телефон
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/3adf5836-c164-48f3-ba15-6745ec83ff11" />
+
+Вводим тот же код который я сообщил
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/ef8e876a-ea2b-4f5a-90e4-d616d9cdde95" />
+
+В инженерном меню нажимаете на установить AutoRus
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/1b4c7edb-b9da-450f-82d9-3ba778e24d36" />
+
+Инженерное меню закроется
+
+В списке приложений пролистайке в самый низ, откройте приложение авторус
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/8e51bc0f-dc5b-468a-8f6d-f6b6de2b752b" />
+
+Для активации введи код который я Вам пришлю, и нажмите активировать
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c230ccbc-dae6-4f63-982c-280d5c1af5a3" />
+
+Затем Вам надо перезагрузить планшет, для этого на руле удерживайте круглую кнопку 15 секунд, пока экран не погаснет - кнопку можно отпустить. Во время нажатия машина может говорить на китайском
