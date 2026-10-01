@@ -1,8 +1,10 @@
-Для начала прошивки нужно убедиться что у вас уже установлена версия 2.3.0 flyme auto
+Для начала прошивки нужно убедиться что у вас уже установлена версия 2.3.0 flyme auto, для этого перейдите в настройки
+
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/f99ce183-33a0-4672-9706-3602f19ab435" />
 
 Чтобы убедиться, вам необходимо зайти в список приложений, открыть настройки авто (иконка автомобиля), пролистать в самый низ и нажать на иконку человека
 
-<img width="1836" height="1502" alt="image" src="https://github.com/user-attachments/assets/3e61960f-a0bd-4f14-ab82-7516679cb7ba" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/7a9653a1-a17a-4d69-99ec-c46065a5c761" />
 
 На данном примере стоит версия 1.9.0, для того чтобы обновиться надо нажать на Flyme 2.3.0
 
@@ -11,6 +13,10 @@
 Нажимайте синюю кнопку, и дождитесь обновления, планшет выключится, пойдет процесс обновления
 
 <img width="1367" height="1167" alt="image" src="https://github.com/user-attachments/assets/30abc1b1-2d5f-4cb6-b651-0451e05c47d7" />
+
+Подтвердите
+
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/698e8f7a-ce89-4454-9867-9a73aa0bc231" />
 
 После завершения процесса, у вас будет 2.3.0
 
