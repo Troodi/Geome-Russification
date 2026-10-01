@@ -10,13 +10,13 @@
 
 <img width="1367" height="1167" alt="image" src="https://github.com/user-attachments/assets/ad0a0863-ea8a-4653-abd4-53ce30b58b46" />
 
-Нажимайте синюю кнопку, и дождитесь обновления, планшет выключится, пойдет процесс обновления
+Нажимайте синюю кнопку
 
-<img width="1367" height="1167" alt="image" src="https://github.com/user-attachments/assets/30abc1b1-2d5f-4cb6-b651-0451e05c47d7" />
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/698e8f7a-ce89-4454-9867-9a73aa0bc231" />
 
 Подтвердите
 
-<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/698e8f7a-ce89-4454-9867-9a73aa0bc231" />
+<img width="1367" height="1167" alt="image" src="https://github.com/user-attachments/assets/30abc1b1-2d5f-4cb6-b651-0451e05c47d7" />
 
 После завершения процесса, у вас будет 2.3.0
 
