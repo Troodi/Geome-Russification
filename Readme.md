@@ -72,3 +72,6 @@
 <img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/c230ccbc-dae6-4f63-982c-280d5c1af5a3" />
 
 Затем Вам надо перезагрузить планшет, для этого на руле удерживайте круглую кнопку 15 секунд, пока экран не погаснет - кнопку можно отпустить. Во время нажатия машина может говорить на китайском
+
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/9f9e6bc8-f1c6-4f79-b48e-ca936180a1d4" />
+
