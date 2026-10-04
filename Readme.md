@@ -33,7 +33,7 @@
 
 Прокрутите меню настроек **до самого низа** и откройте раздел с **иконкой человека**:
 
-<img width="1448" height="1086" alt="Раздел настроек автомобиля" src="https://github.com/user-attachments/assets/7a9653a1-a17a-4d69-99ec-c46065a5c761" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/60dbebdc-cc4d-42fb-b861-681cb36204b7" />
 
 Здесь отображается установленная версия Flyme Auto.
 
