@@ -157,6 +157,10 @@
 
 <img width="1448" height="1086" alt="Активация AutoRus" src="https://github.com/user-attachments/assets/c230ccbc-dae6-4f63-982c-280d5c1af5a3" />
 
+Нажмите синюю кнопку
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b8676504-bdb5-43c1-85b6-f16d8970eb37" />
+
 После успешной активации необходимо **перезагрузить головное устройство**.
 
 ---
